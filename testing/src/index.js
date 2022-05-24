@@ -1,4 +1,8 @@
-const sdk = require('typescript-sdk');
+const HelloWorld = require('typescript-sdk');
+
+// const sdk = require('typescript-sdk');
+
+// console.log(sdk);
 
 const helloWorld = new HelloWorld();
 
